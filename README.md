@@ -58,6 +58,7 @@ Hand-authored DESIGN.md references based on publicly observable design signals f
 - [Stripe design reference](https://designmd.directory/p/stripe-design-md) — fintech, data-dense, indigo on white
 - [Linear design reference](https://designmd.directory/p/linear-design-md) — dark, compact, keyboard-first
 - [Vercel design reference](https://designmd.directory/p/vercel-design-md) — monochrome, Geist, developer-native
+- [shadcn/ui design reference](https://designmd.directory/p/shadcnui-reference) — Tailwind tokens, Radix primitives, composable components
 - [Notion design reference](https://designmd.directory/p/notion-design-md) — document-native, warm, editable
 - [GitHub design reference](https://designmd.directory/p/github-design-md) — utility-first, Primer system
 - [Figma design reference](https://designmd.directory/p/figma-design-md) — canvas-first, creative tools
