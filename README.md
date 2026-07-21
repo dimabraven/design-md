@@ -58,7 +58,7 @@ Hand-authored DESIGN.md references based on publicly observable design signals f
 - [Stripe design reference](https://designmd.directory/p/stripe-design-md) — fintech, data-dense, indigo on white
 - [Linear design reference](https://designmd.directory/p/linear-design-md) — dark, compact, keyboard-first
 - [Vercel design reference](https://designmd.directory/p/vercel-design-md) — monochrome, Geist, developer-native
-- [shadcn/ui design reference](https://designmd.directory/p/shadcnui-reference) — Tailwind tokens, Radix primitives, composable components
+- [shadcn/ui design reference](https://designmd.directory/p/shadcnui-design-md-reference) — Tailwind tokens, Radix primitives, composable components
 - [Notion design reference](https://designmd.directory/p/notion-design-md) — document-native, warm, editable
 - [GitHub design reference](https://designmd.directory/p/github-design-md) — utility-first, Primer system
 - [Figma design reference](https://designmd.directory/p/figma-design-md) — canvas-first, creative tools
@@ -70,17 +70,17 @@ Hand-authored DESIGN.md references based on publicly observable design signals f
 
 ## Templates
 
-- [Minimal SaaS dashboard](https://designmd.directory/p/minimal-saas-dashboard-designmd) — compact dashboard for any B2B product
-- [AI app starter](https://designmd.directory/p/ai-app-starter-designmd) — starter visual system for AI products
-- [Landing page](https://designmd.directory/p/landing-page-designmd) — marketing page reference
-- [Admin panel](https://designmd.directory/p/admin-panel-designmd) — internal admin interface
-- [Analytics dashboard](https://designmd.directory/p/analytics-dashboard-designmd) — data-heavy product UI
-- [Dark terminal app](https://designmd.directory/p/dark-terminal-app-designmd) — devtool with terminal aesthetics
-- [Command center](https://designmd.directory/p/command-center-designmd) — Raycast/Linear-style command palette UI
-- [AI chat app](https://designmd.directory/p/ai-chat-app-designmd) — conversational AI interface
-- [Developer docs](https://designmd.directory/p/developer-docs-designmd) — documentation site reference
-- [Tailwind DESIGN.md template](https://designmd.directory/templates/tailwind) — all Tailwind-based templates
-- [shadcn/ui DESIGN.md template](https://designmd.directory/templates/shadcn) — all shadcn/ui-based templates
+- [Minimal SaaS dashboard](https://designmd.directory/t/minimal-saas-dashboard-designmd) — compact dashboard for any B2B product
+- [AI app starter](https://designmd.directory/t/ai-app-starter-designmd) — starter visual system for AI products
+- [Landing page](https://designmd.directory/t/landing-page-designmd) — marketing page reference
+- [Admin panel](https://designmd.directory/t/admin-panel-designmd) — internal admin interface
+- [Analytics dashboard](https://designmd.directory/t/analytics-dashboard-designmd) — data-heavy product UI
+- [Dark terminal app](https://designmd.directory/t/dark-terminal-app-designmd) — devtool with terminal aesthetics
+- [Command center](https://designmd.directory/t/command-center-designmd) — Raycast/Linear-style command palette UI
+- [AI chat app](https://designmd.directory/t/ai-chat-app-designmd) — conversational AI interface
+- [Developer docs](https://designmd.directory/t/developer-docs-designmd) — documentation site reference
+- [Tailwind DESIGN.md template](https://designmd.directory/templates?type=tailwind) — all Tailwind-based templates
+- [shadcn/ui DESIGN.md template](https://designmd.directory/templates?type=shadcn) — all shadcn/ui-based templates
 
 ## Tool guides
 
@@ -163,15 +163,16 @@ List the top 4–6 anti-patterns to avoid for this specific visual style.
 
 ## Learn more
 
-- [What is DESIGN.md?](https://designmd.directory/learn/what-is-design-md)
-- [DESIGN.md examples](https://designmd.directory/learn/design-md-examples)
-- [DESIGN.md vs design tokens](https://designmd.directory/learn/design-md-vs-design-tokens)
-- [DESIGN.md vs Claude.md](https://designmd.directory/learn/design-md-vs-claude-md)
-- [DESIGN.md vs Figma design systems](https://designmd.directory/learn/design-md-vs-figma-design-systems)
-- [Why AI agents make generic UI](https://designmd.directory/learn/why-ai-agents-make-ugly-ui)
-- [How to make Claude Code generate better UI](https://designmd.directory/learn/how-to-make-claude-code-design-better-ui)
-- [How to create a DESIGN.md from a website](https://designmd.directory/learn/how-to-create-design-md-from-website)
+- [What is DESIGN.md?](https://designmd.directory/guides/what-is-design-md)
+- [DESIGN.md examples](https://designmd.directory/guides/design-md-examples)
+- [DESIGN.md vs design tokens](https://designmd.directory/guides/design-md-vs-design-tokens)
+- [DESIGN.md vs Claude.md](https://designmd.directory/guides/design-md-vs-claude-md)
+- [DESIGN.md vs Figma design systems](https://designmd.directory/guides/design-md-vs-figma-design-systems)
+- [Why AI agents make generic UI](https://designmd.directory/guides/why-ai-agents-make-ugly-ui)
+- [How to make Claude Code generate better UI](https://designmd.directory/guides/how-to-make-claude-code-design-better-ui)
+- [How to create a DESIGN.md from a website](https://designmd.directory/guides/how-to-create-design-md-from-website)
 - [Browse all examples](https://designmd.directory/examples)
+- [DesignMD Blog](https://designmd.directory/blog) — articles on writing, structuring, and using DESIGN.md files with AI coding agents
 
 ---
 
